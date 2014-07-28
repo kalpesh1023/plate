@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RicePlate_WebApplication", "RicePlate_WebApplication\RicePlate_WebApplication.csproj", "{F371B82F-EE7E-4437-A8B7-4C7AAFD6CF9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F371B82F-EE7E-4437-A8B7-4C7AAFD6CF9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F371B82F-EE7E-4437-A8B7-4C7AAFD6CF9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F371B82F-EE7E-4437-A8B7-4C7AAFD6CF9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F371B82F-EE7E-4437-A8B7-4C7AAFD6CF9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

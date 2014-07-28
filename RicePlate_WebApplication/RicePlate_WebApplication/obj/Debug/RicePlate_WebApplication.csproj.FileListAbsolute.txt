@@ -1,0 +1,4 @@
+E:\40GB DRIVE\SVN_RicePlate\RicePlate_WebApplication\RicePlate_WebApplication\bin\RicePlate_WebApplication.dll
+E:\40GB DRIVE\SVN_RicePlate\RicePlate_WebApplication\RicePlate_WebApplication\bin\RicePlate_WebApplication.pdb
+E:\40GB DRIVE\SVN_RicePlate\RicePlate_WebApplication\RicePlate_WebApplication\obj\Debug\RicePlate_WebApplication.dll
+E:\40GB DRIVE\SVN_RicePlate\RicePlate_WebApplication\RicePlate_WebApplication\obj\Debug\RicePlate_WebApplication.pdb
